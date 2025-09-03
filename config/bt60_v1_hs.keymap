@@ -15,8 +15,8 @@
                 // |  CTL  |  WIN  |  ALT  |            SPACE               | ALT | 1    |  MENU    |  CTRL |
                 // ------------------------------------------------------------------------------------------
             bindings = <
-                &kp ESC &kp N1 &kp N2 &kp N3 &kp N4 
-                &kp TAB  &kp Q  &kp W  &kp E  &kp R 
+                &kp Q &kp N1 &kp N2 &kp N3 &kp N4 
+                &kp TAB  &kp ESC  &kp W  &kp E  &kp R 
                 &kp CLCK  &kp A  &kp S  &kp D  &kp F 
                 &kp LSHFT  &kp Z  &kp X  &kp C  &kp V  
                 &kp LCTRL &kp LGUI &kp LALT            &kp SPACE                          &kp RALT  
